@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e1dd434-d8be-4721-a455-1dd93a611e2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/snap/go/6274" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="default" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1gTzXDjuhxQqygSI2cwbhqq8IO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="cobra-ctx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/gabeduke/goctx" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cobra-ctx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/gabeduke/cobra-ctx" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="332" width="400" height="339" key="#Go_Modules" timestamp="1598153534706">
+      <screen x="0" y="27" width="1712" height="936" />
+    </state>
+    <state x="654" y="332" width="400" height="339" key="#Go_Modules/0.27.1712.936@0.27.1712.936" timestamp="1598153534706" />
+    <state x="555" y="297" width="598" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598157221863">
+      <screen x="0" y="27" width="1712" height="936" />
+    </state>
+    <state x="555" y="297" width="598" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1712.936@0.27.1712.936" timestamp="1598157221863" />
+    <state x="485" y="147" width="738" height="628" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598156955140">
+      <screen x="0" y="27" width="1712" height="936" />
+    </state>
+    <state x="485" y="147" width="738" height="628" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1712.936@0.27.1712.936" timestamp="1598156955140" />
+    <state x="545" y="231" width="621" height="580" key="find.popup" timestamp="1598157152215">
+      <screen x="0" y="27" width="1712" height="936" />
+    </state>
+    <state x="545" y="231" width="621" height="580" key="find.popup/0.27.1712.936@0.27.1712.936" timestamp="1598157152215" />
+  </component>
+</project>
